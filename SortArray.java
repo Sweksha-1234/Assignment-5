@@ -1,3 +1,5 @@
+// Write a Java program to sort an array of integers in ascending order. 
+
 import java.util.Arrays;
 
 public class SortArray {
@@ -17,3 +19,8 @@ public class SortArray {
         System.out.println(Arrays.toString(numbers));
     }
 }
+// output:
+// Original Array:
+// [34, 7, 23, 32, 5, 62]
+// Sorted Array (Ascending Order):
+// [5, 7, 23, 32, 34, 62]
